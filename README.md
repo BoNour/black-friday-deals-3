@@ -157,7 +157,7 @@ Spotted a deal that has ended or changed? Open an issue or a pull request.
 
 ## Sponsored listings
 
-The sponsored spot is a paid placement at the top of this list and of [somi.ai/black-friday](https://somi.ai/black-friday). To book it, use the [contact form](https://somi.ai/contact?type=sponsorship).
+The sponsored spot is pinned to the top of this list and of [somi.ai/black-friday](https://somi.ai/black-friday). To book it, use the [contact form](https://somi.ai/contact?type=sponsorship).
 
 ## Notes
 
