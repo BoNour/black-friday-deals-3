@@ -17,7 +17,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 ## Contents
 
 - [Marketing](#marketing) (5)
-- [Creative](#creative) (5)
+- [Creative](#creative) (6)
 - [Websites](#websites) (2)
 - [Productivity](#productivity) (2)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
@@ -43,6 +43,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | [**Tagshop.ai**](https://tagshop.ai/) | AI-generated UGC video ads from a product URL. | Up to 51% off yearly plans | Not published |
 | [**OpenArt AI**](https://openartai.pxf.io/c/6191520/3106413/38572?utm_source=impact&utm_medium=affiliate&utm_content=link) | AI image and video generation suite with many models in one place. | Up to 40% off your first year on annual plans | Not published |
 | [**ThreeDee Nova**](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs (code: `BLACK30`) | 24 Nov 2026 – 2 Dec 2026 |
+| [**A1**](https://www.a1.gallery/pricing?utm_source=somi&utm_medium=directory&utm_campaign=bf2026) | Gallery of real, live websites for design inspiration, with an MCP server so AI coding tools can pull real sections, fonts and colours. | 33% off A1 Pro yearly: $48 a year instead of $72, kept while you stay subscribed. No code needed. | 19 Nov 2026 – 30 Nov 2026 |
 
 ## Websites
 
