@@ -4,7 +4,7 @@ A verified list of Black Friday and Cyber Monday 2026 deals on AI tools and the 
 
 **Browse, search and filter the list at [somi.ai/black-friday](https://somi.ai/black-friday).**
 
-87 deals · last checked 23 November 2026 · [add yours](#submit-a-deal)
+88 deals · last checked 23 November 2026 · [add yours](#submit-a-deal)
 
 The first 13 deals below were checked by Somi against the vendor's own pricing or sale page. The [community-listed](#community-listed-ai-tools) deals were imported from other open lists and have not been re-checked by us. Dates and codes are shown only when the source gives them.
 
@@ -19,7 +19,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 - [Marketing](#marketing) (5)
 - [Creative](#creative) (5)
 - [Websites](#websites) (2)
-- [Productivity](#productivity) (1)
+- [Productivity](#productivity) (2)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -54,6 +54,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | Name | Description | Deal | Validity |
 | --- | --- | --- | --- |
 | [**Jotform**](https://link.jotform.com/somi-ai-d4M6BtxDjd) | Drag-and-drop form builder with AI agents for registrations, orders and payments. | 60% off annual Bronze, Silver and Gold plans | Until 30 Nov 2026 |
+| [**Checkout Page**](https://checkoutpage.com/black-friday) | Build checkout pages, events and forms with AI, or from Claude and ChatGPT through our MCP server. | 30% off every paid plan: first 6 months on monthly billing, or first year on yearly billing. New paid plans only. No code needed. | 23 Nov 2026 – 30 Nov 2026 |
 
 ## Community-listed AI tools
 
