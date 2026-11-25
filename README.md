@@ -41,6 +41,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | [**Higgsfield AI**](https://goto.higgsfield.ai/raPQRv) | AI video generation with cinematic camera controls. | 63% off in the Black Friday sale | Not published |
 | [**Tagshop.ai**](https://tagshop.ai/) | AI-generated UGC video ads from a product URL. | Up to 51% off yearly plans | Not published |
 | [**OpenArt AI**](https://openartai.pxf.io/c/6191520/3106413/38572?utm_source=impact&utm_medium=affiliate&utm_content=link) | AI image and video generation suite with many models in one place. | Up to 40% off your first year on annual plans | Not published |
+| [**ThreeDee Nova**](https://www.threedee.design/) | Turn photos or text prompts into 3D models in your browser. | 30% off one-time credit packs (code: `BLACK30`) | 24 Nov 2026 – 2 Dec 2026 |
 
 ## Websites
 
