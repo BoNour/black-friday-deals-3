@@ -31,6 +31,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | [**AdCreative.ai**](https://www.adcreative.ai/) | Generates ad creatives, product photos and copy tuned for conversion. | 50% off quarterly and yearly plans, plus double credits | Not published |
 | [**EngageBay**](https://www.engagebay.com/offer) | All-in-one CRM with marketing, sales and support tools. | 40% off all plans, plus 50,000 free email credits | 9 Nov 2026 – 4 Dec 2026 |
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | Agent-native email platform: email API, MCP server, newsletter editor and a publication site on one domain. | 3 months free on the Pro 25K plan (code: `BLACKFRIDAY26`). First 100 redemptions. New customers on monthly billing. | 23 Nov 2026 – 30 Nov 2026 |
+| [**SiteData**](https://sitedata.dev/black-friday) | Research website traffic, SEO keywords, competitor ads and AdSense publisher networks. | 50% off annual plans and 30% off monthly plans, auto-applied at Stripe checkout. The discount continues on renewals while subscribed. No code needed. | 24 Nov 2026 – 30 Nov 2026 (16:00 UTC) |
 
 ## Creative
 
