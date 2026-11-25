@@ -31,6 +31,7 @@ The first 13 deals below were checked by Somi against the vendor's own pricing o
 | [**AdCreative.ai**](https://www.adcreative.ai/) | Generates ad creatives, product photos and copy tuned for conversion. | 50% off quarterly and yearly plans, plus double credits | Not published |
 | [**EngageBay**](https://www.engagebay.com/offer) | All-in-one CRM with marketing, sales and support tools. | 40% off all plans, plus 50,000 free email credits | 9 Nov 2026 – 4 Dec 2026 |
 | [**Mailtea**](https://mailtea.app/pricing?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | Agent-native email platform: email API, MCP server, newsletter editor and a publication site on one domain. | 3 months free on the Pro 25K plan (code: `BLACKFRIDAY26`). First 100 redemptions. New customers on monthly billing. | 23 Nov 2026 – 30 Nov 2026 |
+| [**BacklinkGenie**](https://backlinkgenie.com/black-friday/?utm_source=somi&utm_medium=deal&utm_campaign=bfcm2026) | AI link-building agent that finds posts where your product belongs, pitches each editor from a managed mailbox, follows up and checks won links stay live. | 30% off monthly or 50% off yearly, on every billing cycle while subscribed, applied at checkout (codes: `BFCM30` / `BFCM50`) | 24 Nov 2026 – 31 Dec 2026 |
 
 ## Creative
 
