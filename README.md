@@ -19,7 +19,7 @@ The first 18 deals below were checked by Somi against the vendor's own pricing o
 - [Marketing](#marketing) (7)
 - [Creative](#creative) (7)
 - [Websites](#websites) (2)
-- [Productivity](#productivity) (2)
+- [Productivity](#productivity) (3)
 - [Community-listed AI tools](#community-listed-ai-tools) (74)
 
 ## Marketing
@@ -59,6 +59,7 @@ The first 18 deals below were checked by Somi against the vendor's own pricing o
 | --- | --- | --- | --- |
 | [**Jotform**](https://link.jotform.com/somi-ai-d4M6BtxDjd) | Drag-and-drop form builder with AI agents for registrations, orders and payments. | 60% off annual Bronze, Silver and Gold plans | Until 30 Nov 2026 |
 | [**Checkout Page**](https://checkoutpage.com/black-friday) | Build checkout pages, events and forms with AI, or from Claude and ChatGPT through its MCP server. | 30% off every paid plan: first 6 months on monthly billing, or first year on yearly billing. New paid plans only. No code needed. | 23 Nov 2026 – 30 Nov 2026 |
+| [**AtAt**](https://atatapp.com/black-friday) | Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation. | 47% off Lifetime ($89 one-time, reg. $169) or 34% off Yearly first year ($39, then $59/yr), auto-applied at checkout. No code needed. | 24 Nov 2026 – 15 Dec 2026 |
 
 ## Community-listed AI tools
 
