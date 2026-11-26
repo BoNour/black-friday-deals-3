@@ -139,6 +139,7 @@ Submitted by their makers to open community deal lists; not re-checked by Somi. 
 | [**SnapDub**](https://snapdub.ai/) | Turn a long video (stream, podcast or YouTube link) into captioned vertical clips for TikTok, Reels and Shorts, ready to post. | 20% off the first month, any plan (code: `BLACKFRIDAY20`) | Until 4 Dec 2026 |
 | [**EzyStudio**](https://ezystudio.com/pricing) | AI website and app builder. | 10% off every payment, for good, on every regular plan (monthly, yearly or lifetime) (code: `EARLYBF26`) | 16 Nov 2026 – 22 Nov 2026 |
 | [**HiAPI**](https://hiapi.ai/en/promotions/black-friday-2026) | Pay-as-you-go API for image, video, audio and text models — GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok and Qwen behind one… | Up to 10% extra credit on top-ups and up to 20% back on image, video and audio spending | 24 Nov 2026 – 1 Dec 2026 |
+| [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=somi&utm_medium=deals&utm_campaign=black_friday_2026) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | 20% off the first year of annual plans: Basic $250 → $200, Business $500 → $400/seat (automatic at checkout, no code) | 25 Nov 2026 – 30 Nov 2026 |
 | [**Read My Dream**](https://readmydream.com/plus) | Dream journal with AI readings. | 10% off the first year or first month of Plus | 20 Nov 2026 – 1 Dec 2026 |
 
 ## Submit a deal
